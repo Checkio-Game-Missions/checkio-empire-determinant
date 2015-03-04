@@ -1,5 +1,5 @@
 TESTS = {
-    "Basics": [
+    "Rank_1": [
         {"input": [[4, 3], [6, 3]], "answer": -6},
         {"input": [[1, 3, 2], [1, 1, 4], [2, 2, 1]], "answer": 14},
         {"input": [[1]], "answer": 1},
