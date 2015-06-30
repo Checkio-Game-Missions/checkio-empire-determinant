@@ -1,6 +1,5 @@
 **Precondition:**
-```python
-0 < len(matrix) <= 5
-all(len(row) == len(matrix) for row in matrix)
-all(all(0 <= x < 10 for x in row) for row in matrix)
-```
+
+`0 < |matrix| ≤ 5`
+
+A `matrix` is square.

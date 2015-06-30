@@ -3,7 +3,7 @@ def golf(matrix):
 #
 # if __name__ == '__main__':
 #     # These "asserts" using only for self-checking and not necessary for auto-testing
-#     golf([[4,3], [6,3]]) == -6
-#     golf([[1, 3, 2],
-#           [1, 1, 4],
-#           [2, 2, 1]]) == 14
+#     assert golf([[4,3], [6,3]]) == -6, "First"
+#     assert golf([[1, 3, 2],
+#                  [1, 1, 4],
+#                  [2, 2, 1]]) == 14, "Second"
