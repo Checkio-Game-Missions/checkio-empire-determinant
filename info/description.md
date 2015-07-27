@@ -1,4 +1,4 @@
-In linear algebra, the  [determinant](http://en.wikipedia.org/wiki/Determinant") is a value associated with a square matrix.
+In linear algebra, the  [determinant](http://en.wikipedia.org/wiki/Determinant) is a value associated with a square matrix.
 It can be computed from the entries of the matrix by a specific arithmetic expression 
 (There are other ways to determine its value as well.)
 
