@@ -2,8 +2,9 @@ def golf(matrix):
     return 0
 #
 # if __name__ == '__main__':
-#     # These "asserts" using only for self-checking and not necessary for auto-testing
-#     assert golf([[4,3], [6,3]]) == -6, "First"
-#     assert golf([[1, 3, 2],
+#    # These "asserts" using only for self-checking and not necessary for auto-testing
+#    assert golf([[4,3], [6,3]]) == -6, "First"
+#    assert golf([[1, 3, 2],
 #                  [1, 1, 4],
 #                  [2, 2, 1]]) == 14, "Second"
+#    print("All done? Earn rewards by using the 'Check' button!")
